@@ -6,6 +6,7 @@ from django.shortcuts import redirect, render
 from django.contrib.auth import authenticate, logout,login
 
 
+
 # Create your views here.
 from .models import *
 from datetime import date
